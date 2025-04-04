@@ -1,6 +1,8 @@
 ---
-layout: default
-title: "Arquitectura y Gobierno TI"
+theme: jekyll-theme-cayman
+title: "Mi Sitio de Arquitectura"
+description: "Documentación de lineamientos en ciberseguridad"
+
 ---
 
 # Arquitectura y Gobierno TI  
