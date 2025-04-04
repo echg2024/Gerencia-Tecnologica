@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 title: "Mi Sitio de Arquitectura"
 description: "Documentación de lineamientos en ciberseguridad"
 
